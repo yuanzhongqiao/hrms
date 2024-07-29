@@ -16,13 +16,13 @@
 </p>
 <div align="center" dir="auto">
 	<a href="https://frappecloud.com/hrms/signup" rel="nofollow">
-		<img src="/frappe/hrms/raw/develop/.github/try-on-f-cloud-button.svg" height="50" style="max-width: 100%;">
+		<img src="https://github.com/frappe/hrms/raw/develop/.github/try-on-f-cloud-button.svg" height="50" style="max-width: 100%;">
 	</a>
 </div>
 </div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frappe HR 拥有推动公司内部卓越发展所需的一切。它是一款完整的 HRMS 解决方案，包含 13 多个不同的模块，包括员工管理、入职、休假、工资单、税务等！</font></font></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/frappe/hrms/blob/develop/hrms.png"><img src="/frappe/hrms/raw/develop/hrms.png" alt="人力资源管理系统" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/frappe/hrms/blob/develop/hrms.png"><img src="https://github.com/frappe/hrms/raw/develop/hrms.png" alt="人力资源管理系统" style="max-width: 100%;"></a></p>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要特征</font></font></h2><a id="user-content-key-features" class="anchor" aria-label="固定链接：主要特点" href="#key-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">员工管理</font></font></li>
